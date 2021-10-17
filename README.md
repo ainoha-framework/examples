@@ -1,7 +1,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Examples
-Here you can found usage examples of Ainoha Framework.
+Here you can find Ainhoa Framework usage examples.
 
 ## Hello, world!
 Minimal Ainoha Framework application.
