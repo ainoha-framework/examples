@@ -16,9 +16,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.ainoha-framework</groupId>
+            <groupId>dev.ainoha.framework</groupId>
             <artifactId>ainoha-core</artifactId>
-            <version>1.0.RC5</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 
@@ -36,7 +36,7 @@
             <plugin>
                 <groupId>org.openjfx</groupId>
                 <artifactId>javafx-maven-plugin</artifactId>
-                <version>0.0.4</version>
+                <version>0.0.7</version>
                 <configuration>
                     <mainClass>ainoha.examples.helloworld/com.ainoha.examples.helloworld.FxApp</mainClass>
                 </configuration>
